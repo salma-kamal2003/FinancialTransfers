@@ -1,0 +1,11 @@
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Domain\bin\Debug\net8.0\FinancialTransfers.Domain.deps.json
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Domain\bin\Debug\net8.0\FinancialTransfers.Domain.dll
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Domain\bin\Debug\net8.0\FinancialTransfers.Domain.pdb
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Domain\obj\Debug\net8.0\FinancialTransfers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Domain\obj\Debug\net8.0\FinancialTransfers.Domain.AssemblyInfoInputs.cache
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Domain\obj\Debug\net8.0\FinancialTransfers.Domain.AssemblyInfo.cs
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Domain\obj\Debug\net8.0\FinancialTransfers.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Domain\obj\Debug\net8.0\FinancialTransfers.Domain.dll
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Domain\obj\Debug\net8.0\refint\FinancialTransfers.Domain.dll
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Domain\obj\Debug\net8.0\FinancialTransfers.Domain.pdb
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Domain\obj\Debug\net8.0\ref\FinancialTransfers.Domain.dll
