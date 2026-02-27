@@ -1,5 +1,6 @@
 ﻿using FinancialTransfers.Application.DTOs;
 using FinancialTransfers.Application.Interfaces;
+using FinancialTransfers.Domain.Enums;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FinancialTransfers.Api.Controllers
@@ -17,7 +18,7 @@ namespace FinancialTransfers.Api.Controllers
 
         [HttpGet]
         public async Task<IActionResult> GetAll(
-    [FromQuery] string? status,
+    [FromQuery] TransferStatus? status,
     [FromQuery] string? search,
     [FromQuery] DateTime? fromDate,
     [FromQuery] DateTime? toDate,
@@ -47,7 +48,7 @@ namespace FinancialTransfers.Api.Controllers
         }
 
         [HttpPut("{id}/complete")]
-        public async Task<IActionResult> Complete(int id)
+        public async Task<IActionResult> Complete(Guid id)
         {
             try
             {
@@ -64,7 +65,7 @@ namespace FinancialTransfers.Api.Controllers
         }
 
         [HttpPut("{id}/cancel")]
-        public async Task<IActionResult> Cancel(int id)
+        public async Task<IActionResult> Cancel(Guid id)
         {
             try
             {
@@ -81,7 +82,7 @@ namespace FinancialTransfers.Api.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetById(int id)
+        public async Task<IActionResult> GetById(Guid id)
         {
             var transfer = await _transferService.GetTransferByIdAsync(id);
 

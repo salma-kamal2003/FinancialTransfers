@@ -67,7 +67,7 @@ namespace FinancialTransfers.Application.Services
         }
 
 
-        public async Task<TransferDto?> GetTransferByIdAsync(int id)
+        public async Task<TransferDto?> GetTransferByIdAsync(Guid id)
         {
             var transfer = await _context.Transfers
                          .Include(t => t.FromAccount)
@@ -92,7 +92,7 @@ namespace FinancialTransfers.Application.Services
         }
 
 
-        public async Task<bool> CompleteTransferAsync(int id)
+        public async Task<bool> CompleteTransferAsync(Guid id)
         {
             using var transaction = await _context.Database.BeginTransactionAsync();
             try
@@ -125,7 +125,7 @@ namespace FinancialTransfers.Application.Services
         }
 
 
-        public async Task<bool> CancelTransferAsync(int id)
+        public async Task<bool> CancelTransferAsync(Guid id)
         {
             var transfer = await _context.Transfers.FindAsync(id);
 
@@ -141,15 +141,15 @@ namespace FinancialTransfers.Application.Services
             return true;
         }
 
-        public async Task<IEnumerable<TransferDto>> GetAllTransfersAsync(string? status, string? search, DateTime? fromDate, DateTime? toDate, int pageNumber = 1, int pageSize = 10)
+        public async Task<IEnumerable<TransferDto>> GetAllTransfersAsync(TransferStatus? status, string? search, DateTime? fromDate, DateTime? toDate, int pageNumber = 1, int pageSize = 10)
         {
             var query = _context.Transfers
                          .Include(t => t.FromAccount)
                          .Include(t => t.ToAccount)
                          .AsQueryable();
 
-            if (!string.IsNullOrEmpty(status) && Enum.TryParse<TransferStatus>(status, true, out var statusEnum))
-                query = query.Where(t => t.Status == statusEnum);
+            if (status.HasValue)
+                query = query.Where(t => t.Status == status.Value);
 
             if (!string.IsNullOrEmpty(search))
                 query = query.Where(t => t.Description!.Contains(search) || t.ReferenceNumber!.Contains(search));

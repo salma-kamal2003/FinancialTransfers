@@ -9,12 +9,12 @@ namespace FinancialTransfers.Domain.Entities
 {
     public class Transfer
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; } = Guid.NewGuid(); 
 
-        public int FromAccountId { get; set; }
+        public Guid FromAccountId { get; set; }
         public Account? FromAccount { get; set; } 
 
-        public int ToAccountId { get; set; }
+        public Guid ToAccountId { get; set; }
         public Account? ToAccount { get; set; }
 
         public decimal Amount { get; set; } 

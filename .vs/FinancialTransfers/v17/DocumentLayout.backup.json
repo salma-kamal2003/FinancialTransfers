@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05525FF9-C950-4E7B-9FB4-ADC14DAAF7F1}|FinancialTransfers.Api\\FinancialTransfers.Api.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05525FF9-C950-4E7B-9FB4-ADC14DAAF7F1}|FinancialTransfers.Api\\FinancialTransfers.Api.csproj|solutionrelative:financialtransfers.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05525FF9-C950-4E7B-9FB4-ADC14DAAF7F1}|FinancialTransfers.Api\\FinancialTransfers.Api.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05525FF9-C950-4E7B-9FB4-ADC14DAAF7F1}|FinancialTransfers.Api\\FinancialTransfers.Api.csproj|solutionrelative:financialtransfers.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.application\\services\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|solutionrelative:financialtransfers.application\\services\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.application\\interfaces\\itransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|solutionrelative:financialtransfers.application\\interfaces\\itransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05525FF9-C950-4E7B-9FB4-ADC14DAAF7F1}|FinancialTransfers.Api\\FinancialTransfers.Api.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.api\\controllers\\transferscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05525FF9-C950-4E7B-9FB4-ADC14DAAF7F1}|FinancialTransfers.Api\\FinancialTransfers.Api.csproj|solutionrelative:financialtransfers.api\\controllers\\transferscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.application\\dtos\\createtransferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|solutionrelative:financialtransfers.application\\dtos\\createtransferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17B103E-F90D-437A-BB75-2A5843DFB794}|FinancialTransfers.Domain\\FinancialTransfers.Domain.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.domain\\enums\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17B103E-F90D-437A-BB75-2A5843DFB794}|FinancialTransfers.Domain\\FinancialTransfers.Domain.csproj|solutionrelative:financialtransfers.domain\\enums\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|solutionrelative:financialtransfers.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05525FF9-C950-4E7B-9FB4-ADC14DAAF7F1}|FinancialTransfers.Api\\FinancialTransfers.Api.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05525FF9-C950-4E7B-9FB4-ADC14DAAF7F1}|FinancialTransfers.Api\\FinancialTransfers.Api.csproj|solutionrelative:financialtransfers.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.application\\dtos\\createaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|solutionrelative:financialtransfers.application\\dtos\\createaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.application\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|solutionrelative:financialtransfers.application\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.application\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|solutionrelative:financialtransfers.application\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.application\\dtos\\transferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|solutionrelative:financialtransfers.application\\dtos\\transferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17B103E-F90D-437A-BB75-2A5843DFB794}|FinancialTransfers.Domain\\FinancialTransfers.Domain.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.domain\\entities\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17B103E-F90D-437A-BB75-2A5843DFB794}|FinancialTransfers.Domain\\FinancialTransfers.Domain.csproj|solutionrelative:financialtransfers.domain\\entities\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17B103E-F90D-437A-BB75-2A5843DFB794}|FinancialTransfers.Domain\\FinancialTransfers.Domain.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17B103E-F90D-437A-BB75-2A5843DFB794}|FinancialTransfers.Domain\\FinancialTransfers.Domain.csproj|solutionrelative:financialtransfers.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17B103E-F90D-437A-BB75-2A5843DFB794}|FinancialTransfers.Domain\\FinancialTransfers.Domain.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.domain\\enums\\transferstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17B103E-F90D-437A-BB75-2A5843DFB794}|FinancialTransfers.Domain\\FinancialTransfers.Domain.csproj|solutionrelative:financialtransfers.domain\\enums\\transferstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|solutionrelative:financialtransfers.application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.application\\dtos\\transfersummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC8B23C-9A1E-4DB7-A407-1049765FF141}|FinancialTransfers.Application\\FinancialTransfers.Application.csproj|solutionrelative:financialtransfers.application\\dtos\\transfersummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06DDDA3-ABE2-43D8-88E1-1DDB79D6D790}|FinancialTransfers.Infrastructure\\FinancialTransfers.Infrastructure.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06DDDA3-ABE2-43D8-88E1-1DDB79D6D790}|FinancialTransfers.Infrastructure\\FinancialTransfers.Infrastructure.csproj|solutionrelative:financialtransfers.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06DDDA3-ABE2-43D8-88E1-1DDB79D6D790}|FinancialTransfers.Infrastructure\\FinancialTransfers.Infrastructure.csproj|c:\\users\\power\\onedrive\\desktop\\financialtransfers\\financialtransfers\\financialtransfers.infrastructure\\migrations\\20260227125936_initialcreatewithguid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06DDDA3-ABE2-43D8-88E1-1DDB79D6D790}|FinancialTransfers.Infrastructure\\FinancialTransfers.Infrastructure.csproj|solutionrelative:financialtransfers.infrastructure\\migrations\\20260227125936_initialcreatewithguid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 141,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260227125936_InitialCreateWithGuid.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Infrastructure\\Migrations\\20260227125936_InitialCreateWithGuid.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Infrastructure\\Migrations\\20260227125936_InitialCreateWithGuid.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Infrastructure\\Migrations\\20260227125936_InitialCreateWithGuid.cs",
+              "RelativeToolTip": "FinancialTransfers.Infrastructure\\Migrations\\20260227125936_InitialCreateWithGuid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:59:37.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransferSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\DTOs\\TransferSummaryDto.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Application\\DTOs\\TransferSummaryDto.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\DTOs\\TransferSummaryDto.cs",
+              "RelativeToolTip": "FinancialTransfers.Application\\DTOs\\TransferSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:24:10.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Api\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Api\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Api\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "FinancialTransfers.Api\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:13:36.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Application\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\Services\\AccountService.cs",
+              "RelativeToolTip": "FinancialTransfers.Application\\Services\\AccountService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIA3wDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:10:12.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateAccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\DTOs\\CreateAccountDto.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Application\\DTOs\\CreateAccountDto.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\DTOs\\CreateAccountDto.cs",
+              "RelativeToolTip": "FinancialTransfers.Application\\DTOs\\CreateAccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:07:01.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Application\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "FinancialTransfers.Application\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:05:25.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransfersController.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Api\\Controllers\\TransfersController.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Api\\Controllers\\TransfersController.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Api\\Controllers\\TransfersController.cs",
+              "RelativeToolTip": "FinancialTransfers.Api\\Controllers\\TransfersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:20:08.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "FinancialTransfers.Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:59:58.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransferService.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\Services\\TransferService.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Application\\Services\\TransferService.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\Services\\TransferService.cs",
+              "RelativeToolTip": "FinancialTransfers.Application\\Services\\TransferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:53:40.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransferDto.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\DTOs\\TransferDto.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Application\\DTOs\\TransferDto.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\DTOs\\TransferDto.cs",
+              "RelativeToolTip": "FinancialTransfers.Application\\DTOs\\TransferDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:50:44.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITransferService.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\Interfaces\\ITransferService.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Application\\Interfaces\\ITransferService.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\Interfaces\\ITransferService.cs",
+              "RelativeToolTip": "FinancialTransfers.Application\\Interfaces\\ITransferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:49:10.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateTransferDto.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\DTOs\\CreateTransferDto.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Application\\DTOs\\CreateTransferDto.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\DTOs\\CreateTransferDto.cs",
+              "RelativeToolTip": "FinancialTransfers.Application\\DTOs\\CreateTransferDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAArwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:48:27.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\DTOs\\AccountDto.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Application\\DTOs\\AccountDto.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Application\\DTOs\\AccountDto.cs",
+              "RelativeToolTip": "FinancialTransfers.Application\\DTOs\\AccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:47:00.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Api\\Program.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Api\\Program.cs",
+              "RelativeToolTip": "FinancialTransfers.Api\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAArwD0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:34:51.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "FinancialTransfers.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Api\\appsettings.json*",
+              "RelativeToolTip": "FinancialTransfers.Api\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T12:33:11.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FinancialTransfers.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:26:05.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Transfer.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Domain\\Entities\\Transfer.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Domain\\Entities\\Transfer.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Domain\\Entities\\Transfer.cs",
+              "RelativeToolTip": "FinancialTransfers.Domain\\Entities\\Transfer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:20:58.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Domain\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Domain\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Domain\\Entities\\Account.cs",
+              "RelativeToolTip": "FinancialTransfers.Domain\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:19:32.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransferStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Domain\\Enums\\TransferStatus.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Domain\\Enums\\TransferStatus.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Domain\\Enums\\TransferStatus.cs",
+              "RelativeToolTip": "FinancialTransfers.Domain\\Enums\\TransferStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:18:31.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Domain\\Enums\\AccountType.cs",
+              "RelativeDocumentMoniker": "FinancialTransfers.Domain\\Enums\\AccountType.cs",
+              "ToolTip": "C:\\Users\\Power\\OneDrive\\Desktop\\FinancialTransfers\\FinancialTransfers\\FinancialTransfers.Domain\\Enums\\AccountType.cs",
+              "RelativeToolTip": "FinancialTransfers.Domain\\Enums\\AccountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:17:36.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

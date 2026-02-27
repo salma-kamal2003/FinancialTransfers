@@ -11,7 +11,7 @@ namespace FinancialTransfers.Application.DTOs
         public string Name { get; set; } = string.Empty;
         public decimal Balance { get; set; }
         public string Currency { get; set; } = "SAR";
-        public string Type { get; set; } = "Treasury"; 
+        public int Type { get; set; } 
         public string? BankName { get; set; }
         public string? IBAN { get; set; }
     }

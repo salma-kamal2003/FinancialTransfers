@@ -17,3 +17,4 @@ C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialT
 C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Infrastructure\obj\Debug\net8.0\FinancialTransfers.Infrastructure.pdb
 C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Infrastructure\obj\Debug\net8.0\FinancialTransfers.Infrastructure.genruntimeconfig.cache
 C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Infrastructure\obj\Debug\net8.0\ref\FinancialTransfers.Infrastructure.dll
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Infrastructure\obj\Debug\net8.0\FinancialTransfers.Infrastructure.sourcelink.json

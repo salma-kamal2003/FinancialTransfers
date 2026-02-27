@@ -1,0 +1,16 @@
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\bin\Release\net8.0\FinancialTransfers.Application.deps.json
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\bin\Release\net8.0\FinancialTransfers.Application.dll
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\bin\Release\net8.0\FinancialTransfers.Application.pdb
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\bin\Release\net8.0\FinancialTransfers.Domain.dll
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\bin\Release\net8.0\FinancialTransfers.Domain.pdb
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Release\net8.0\FinancialTransfers.Application.csproj.AssemblyReference.cache
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Release\net8.0\FinancialTransfers.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Release\net8.0\FinancialTransfers.Application.AssemblyInfoInputs.cache
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Release\net8.0\FinancialTransfers.Application.AssemblyInfo.cs
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Release\net8.0\FinancialTransfers.Application.csproj.CoreCompileInputs.cache
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Release\net8.0\FinancialTransfers.Application.sourcelink.json
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Release\net8.0\Financia.0DA52C7D.Up2Date
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Release\net8.0\FinancialTransfers.Application.dll
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Release\net8.0\refint\FinancialTransfers.Application.dll
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Release\net8.0\FinancialTransfers.Application.pdb
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Release\net8.0\ref\FinancialTransfers.Application.dll

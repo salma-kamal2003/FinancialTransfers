@@ -13,3 +13,4 @@ C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialT
 C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Debug\net8.0\refint\FinancialTransfers.Application.dll
 C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Debug\net8.0\FinancialTransfers.Application.pdb
 C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Debug\net8.0\ref\FinancialTransfers.Application.dll
+C:\Users\Power\OneDrive\Desktop\FinancialTransfers\FinancialTransfers\FinancialTransfers.Application\obj\Debug\net8.0\FinancialTransfers.Application.sourcelink.json

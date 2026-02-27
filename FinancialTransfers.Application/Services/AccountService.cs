@@ -22,14 +22,13 @@ namespace FinancialTransfers.Application.Services
         }
 
 
-        public async Task<IEnumerable<AccountDto>> GetAllAccountsAsync(string? type)
+        public async Task<IEnumerable<AccountDto>> GetAllAccountsAsync(AccountType? type)
         {
             var query = _context.Accounts.AsQueryable();
 
-            if (!string.IsNullOrEmpty(type) && Enum.TryParse<AccountType>(type, true, out var typeEnum))
-            {
-                query = query.Where(a => a.Type == typeEnum);
-            }
+            if (type.HasValue)
+                query = query.Where(a => a.Type == type.Value);
+            
 
             return await query
                 .Select(a => new AccountDto(
@@ -44,7 +43,7 @@ namespace FinancialTransfers.Application.Services
         }
 
 
-        public async Task<AccountDto?> GetAccountByIdAsync(int id)
+        public async Task<AccountDto?> GetAccountByIdAsync(Guid id) 
         {
             var a = await _context.Accounts.FindAsync(id);
             if (a == null) return null;
@@ -55,26 +54,27 @@ namespace FinancialTransfers.Application.Services
 
         public async Task<bool> CreateAccountAsync(CreateAccountDto dto)
         {
-            if(!Enum.TryParse<AccountType>(dto.Type, true, out var typeEnum))
-                throw new ArgumentException("Invalid account type");
+            if (!Enum.IsDefined(typeof(AccountType), dto.Type))
+                throw new ArgumentException("Invalid account type ID");
 
             var account = new Account
             {
+                Id = Guid.NewGuid(),
                 Name = dto.Name,
                 Balance = dto.Balance,
                 Currency = dto.Currency,
-                Type = typeEnum,
+                Type = (AccountType)dto.Type, 
                 BankName = dto.BankName,
                 IBAN = dto.IBAN,
-                IsActive = true 
+                IsActive = true
             };
 
             _context.Accounts.Add(account);
             return await _context.SaveChangesAsync() > 0;
         }
 
-        
 
-        
+
+
     }
 }

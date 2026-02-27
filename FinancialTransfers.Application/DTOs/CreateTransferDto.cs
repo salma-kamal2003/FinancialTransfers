@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 namespace FinancialTransfers.Application.DTOs
 {
     public record CreateTransferDto
-    (
-    int FromAccountId,
-    int ToAccountId,
-    decimal Amount,
-    decimal Fees,
-    string Currency,
-    string? Description,
-    string? ReferenceNumber
-    );
+    {
+        public Guid FromAccountId { get; init; }
+        public Guid ToAccountId { get; init; }
+        public decimal Amount { get; init; }
+        public decimal Fees { get; init; }
+        public string Currency { get; init; } = string.Empty;
+        public string? Description { get; init; }
+        public string? ReferenceNumber { get; init; }
+    }
 }

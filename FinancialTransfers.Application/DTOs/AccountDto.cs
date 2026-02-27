@@ -8,7 +8,7 @@ namespace FinancialTransfers.Application.DTOs
 {
     public record AccountDto
     (
-    int Id,
+    Guid Id,
     string Name,
     string Type,
     decimal Balance,
